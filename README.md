@@ -1,1 +1,2 @@
 # PracticalGit
+# AbsoluteGit
