@@ -1,2 +1,2 @@
 This is a new file in practical git folder.
-Now this file has been modified.
+Testing Rebase Command.
